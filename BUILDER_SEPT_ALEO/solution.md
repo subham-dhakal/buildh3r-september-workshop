@@ -1,0 +1,1 @@
+Testnet Transaction URL: aleo1nz579g8zf79zth5dzxafhf6sttkpa2480zmw33ftp8ehjeg6tyxselkkzt
